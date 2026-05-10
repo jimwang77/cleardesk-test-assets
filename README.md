@@ -1,0 +1,1 @@
+# cleardesk-test-assets
